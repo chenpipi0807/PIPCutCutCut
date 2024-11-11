@@ -1,6 +1,7 @@
 # PIP 图像裁切节点
 
 这是一个用于 ComfyUI 的自定义节点，专门用于图像裁切处理。
+![微信截图_20241111133011](https://github.com/user-attachments/assets/b3354c90-f907-43de-bc3a-530e61b97978)
 
 ## 功能特点
 
